@@ -43,4 +43,4 @@ function start(file) {
 }
 
 
-start('index.js')
+start('main.js')
